@@ -120,6 +120,10 @@
         "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-27.webp"
       },
       {
+        "type": "titleSeparator",
+        "content": "Benefit"
+      },
+      {
         "type": "title",
         "content": "Sustainable Shore"
       },
@@ -196,6 +200,10 @@
         "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-43.webp"
       },
       {
+        "type": "titleSeparator",
+        "content": "Attachment"
+      },
+      {
         "type": "title",
         "content": "Relevant Documents"
       },
@@ -238,6 +246,10 @@
       {
         "type": "singleImage",
         "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-53.webp"
+      },
+      {
+        "type": "titleSeparator",
+        "content": "Contact"
       }
     ]
   },

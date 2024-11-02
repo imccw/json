@@ -145,6 +145,10 @@
       {
         "type": "spacing",
         "spacing": 1
+      },
+      {
+        "type": "titleSeparator",
+        "content": "Contact"
       }
     ]
   },
