@@ -1,0 +1,320 @@
+{
+     
+        "pageData": {
+            "query": "default",
+            "allInfo": [
+                {
+                    "type": "splashImage",
+                    "content": "https://telegra.ph/file/0a094e75c64ad44c7306a.jpg",
+                    "spacing": 1
+                },
+                {
+                    "type": "title",
+                    "content": "Vision to Reality"
+                },
+                {
+                    "type": "text",
+                    "content": "With over 15 years of experience in building exceptional web applications, we're dedicated to streamlining <b>information access</b>, lightening the workload for your administrators and accountants, and boosting your sales. Our expertise ensures a simplified operation with a positive impact on <b>your business</b>, helping you thrive in the digital world with <b>ease and affordability</b>.",
+                    "spacing": 1
+                },
+                {
+                    "type": "spacing",
+                    "spacing": 1
+                },
+                {
+                    "type": "titleSeparator",
+                    "content": "Success Stories"
+                },
+                {
+                    "type": "title",
+                    "content": "Explore Our Success Stories"
+                },
+                {
+                    "type": "text",
+                    "content": "Our web apps deliver lightning-fast load times for an unparalleled user experience. With stunning designs and intuitive functionality, they are crafted to impress and simplify your digital journey.<br><br>Dive into our case studies below!",
+                    "spacing": 1
+                },
+                {
+                    "type": "title",
+                    "content": "Case Study: MurugTurug.com"
+                },
+                {
+                    "type": "singleImage",
+                    "url": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+                    "caption": "Murug Turug is a distinguished eco-tourism destination that has been recognized for its exceptional community-based tourism practices. In 2019, we were honored to receive the prestigious Best Community-Based Tourism Award from Sabah Tourism."
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+                    "text": "MurugTurug.com",
+                    "targetUrl": "https://www.MurugTurug.com",
+                    "color": "blue"
+                },
+                {
+                    "type": "smallTitle",
+                    "text": "Transforming Eco-Tourism with a Modern Booking Web-App"
+                },
+                {
+                    "type": "text",
+                    "content": "MurugTurug.com offers a unique hiking experience through scenic waterfalls. Initially, managing bookings and inquiries manually was time-consuming for the team, leading to inefficiencies and errors. As interest grew, the administrative burden overwhelmed them, causing delays and frustrations for prospective hikers.<br><br>But then, a game-changing solution transformed everything...<br><br>Click below to read the full story!",
+                    "spacing": 0
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+                    "text": "The Story Behind MurugTurug.com",
+                    "targetUrl": "https://direct-page.com/?q=murugturug",
+                    "color": "orange"
+                },
+                {
+                    "type": "title",
+                    "content": "Case Study: DisanBaang.com"
+                },
+                {
+                    "type": "singleImage",
+                    "url": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+                    "caption": "A Scenic Campsite by the River"
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+                    "text": "DisanBaang.com",
+                    "targetUrl": "https://www.DisanBaang.com",
+                    "color": "blue"
+                },
+                {
+                    "type": "smallTitle",
+                    "text": "Transforming A Rural Campsite with Modern Web Solutions"
+                },
+                {
+                    "type": "text",
+                    "content": "DisanBaang.com, a serene riverside campsite, struggled with inefficient manual bookings and a complex pricing system that overwhelmed their admin team. After partnering with our web-developing service, they transformed their operations with a sleek, automated booking web-app that simplified processes, improved customer satisfaction, and boosted business growth...<br><br>Curious to know how we did it? Click below to uncover the full story!",
+                    "spacing": 0
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+                    "text": "The Story Behind DisanBaang.com",
+                    "targetUrl": "https://direct-page.com/?q=disanbaang",
+                    "color": "orange"
+                },
+                {
+                    "type": "title",
+                    "content": "Case Study: NiceYurt.com"
+                },
+                {
+                    "type": "singleImage",
+                    "url": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+                    "caption": "A Mongolian yurt homestay offers guests a unique retreat."
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+                    "text": "NiceYurt.com",
+                    "targetUrl": "https://www.NiceYurt.com",
+                    "color": "blue"
+                },
+                {
+                    "type": "smallTitle",
+                    "text": "Discover How NiceYurt.com Transformed Its Operations"
+                },
+                {
+                    "type": "text",
+                    "content": "In the tranquil embrace of Kundasang, where cool mountain breezes dance through the valleys and panoramic vistas stretch as far as the eye can see, lies a hidden gem waiting to be discovered. Nestled amidst this natural splendor stands the Mongolian yurt homestay, a sanctuary of serenity and charm.<br><br>Curious to uncover the secrets behind its remarkable transformation? Click below to delve deeper into the captivating story of how our web-developing service revolutionized the guest experience at NiceYurt.com...",
+                    "spacing": 0
+                },
+                {
+                    "type": "linkButton",
+                    "imageUrl": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+                    "text": "The Story Behind NiceYurt.com",
+                    "targetUrl": "https://direct-page.com/?q=niceyurt",
+                    "color": "orange"
+                },
+                {
+                    "type": "titleSeparator",
+                    "content": "Get Started"
+                },
+                {
+                    "type": "title",
+                    "content": "Your First Step"
+                },
+                {
+                    "type": "text",
+                    "content": "Take the first step towards turning your dreams into reality by reaching out to us, where our initial session focuses on actively listening to <b>your unique needs and aspirations</b>. Expect to hear back from us within 24 hours. <b>Your satisfaction</b> is our top priority.",
+                    "spacing": 1
+                },
+                {
+                    "type": "spacing",
+                    "spacing": 1
+                }
+            ]
+        },
+        "settings": {
+            "pageTitle": "Direct-Page",
+            "pageContactId": "-793912056",
+            "pageType": "fullWebsite",
+            "showContactForm": "yes",
+            "showDateSelector": "no",
+            "collectEmail": "yes",
+            "googleTagId": "G-YZXS2XNHFJ",
+            "whatsapp": "60108081611"
+        },
+        "error": false
+    },
+    "allInfo": [
+        {
+            "type": "splashImage",
+            "content": "https://telegra.ph/file/0a094e75c64ad44c7306a.jpg",
+            "spacing": 1
+        },
+        {
+            "type": "title",
+            "content": "Vision to Reality"
+        },
+        {
+            "type": "text",
+            "content": "With over 15 years of experience in building exceptional web applications, we're dedicated to streamlining <b>information access</b>, lightening the workload for your administrators and accountants, and boosting your sales. Our expertise ensures a simplified operation with a positive impact on <b>your business</b>, helping you thrive in the digital world with <b>ease and affordability</b>.",
+            "spacing": 1
+        },
+        {
+            "type": "spacing",
+            "spacing": 1
+        },
+        {
+            "type": "titleSeparator",
+            "content": "Success Stories"
+        },
+        {
+            "type": "title",
+            "content": "Explore Our Success Stories"
+        },
+        {
+            "type": "text",
+            "content": "Our web apps deliver lightning-fast load times for an unparalleled user experience. With stunning designs and intuitive functionality, they are crafted to impress and simplify your digital journey.<br><br>Dive into our case studies below!",
+            "spacing": 1
+        },
+        {
+            "type": "title",
+            "content": "Case Study: MurugTurug.com"
+        },
+        {
+            "type": "singleImage",
+            "url": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+            "caption": "Murug Turug is a distinguished eco-tourism destination that has been recognized for its exceptional community-based tourism practices. In 2019, we were honored to receive the prestigious Best Community-Based Tourism Award from Sabah Tourism."
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+            "text": "MurugTurug.com",
+            "targetUrl": "https://www.MurugTurug.com",
+            "color": "blue"
+        },
+        {
+            "type": "smallTitle",
+            "text": "Transforming Eco-Tourism with a Modern Booking Web-App"
+        },
+        {
+            "type": "text",
+            "content": "MurugTurug.com offers a unique hiking experience through scenic waterfalls. Initially, managing bookings and inquiries manually was time-consuming for the team, leading to inefficiencies and errors. As interest grew, the administrative burden overwhelmed them, causing delays and frustrations for prospective hikers.<br><br>But then, a game-changing solution transformed everything...<br><br>Click below to read the full story!",
+            "spacing": 0
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+            "text": "The Story Behind MurugTurug.com",
+            "targetUrl": "https://direct-page.com/?q=murugturug",
+            "color": "orange"
+        },
+        {
+            "type": "title",
+            "content": "Case Study: DisanBaang.com"
+        },
+        {
+            "type": "singleImage",
+            "url": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+            "caption": "A Scenic Campsite by the River"
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+            "text": "DisanBaang.com",
+            "targetUrl": "https://www.DisanBaang.com",
+            "color": "blue"
+        },
+        {
+            "type": "smallTitle",
+            "text": "Transforming A Rural Campsite with Modern Web Solutions"
+        },
+        {
+            "type": "text",
+            "content": "DisanBaang.com, a serene riverside campsite, struggled with inefficient manual bookings and a complex pricing system that overwhelmed their admin team. After partnering with our web-developing service, they transformed their operations with a sleek, automated booking web-app that simplified processes, improved customer satisfaction, and boosted business growth...<br><br>Curious to know how we did it? Click below to uncover the full story!",
+            "spacing": 0
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://telegra.ph/file/986dd85f2156f70ecf7a9.jpg",
+            "text": "The Story Behind DisanBaang.com",
+            "targetUrl": "https://direct-page.com/?q=disanbaang",
+            "color": "orange"
+        },
+        {
+            "type": "title",
+            "content": "Case Study: NiceYurt.com"
+        },
+        {
+            "type": "singleImage",
+            "url": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+            "caption": "A Mongolian yurt homestay offers guests a unique retreat."
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+            "text": "NiceYurt.com",
+            "targetUrl": "https://www.NiceYurt.com",
+            "color": "blue"
+        },
+        {
+            "type": "smallTitle",
+            "text": "Discover How NiceYurt.com Transformed Its Operations"
+        },
+        {
+            "type": "text",
+            "content": "In the tranquil embrace of Kundasang, where cool mountain breezes dance through the valleys and panoramic vistas stretch as far as the eye can see, lies a hidden gem waiting to be discovered. Nestled amidst this natural splendor stands the Mongolian yurt homestay, a sanctuary of serenity and charm.<br><br>Curious to uncover the secrets behind its remarkable transformation? Click below to delve deeper into the captivating story of how our web-developing service revolutionized the guest experience at NiceYurt.com...",
+            "spacing": 0
+        },
+        {
+            "type": "linkButton",
+            "imageUrl": "https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg",
+            "text": "The Story Behind NiceYurt.com",
+            "targetUrl": "https://direct-page.com/?q=niceyurt",
+            "color": "orange"
+        },
+        {
+            "type": "titleSeparator",
+            "content": "Get Started"
+        },
+        {
+            "type": "title",
+            "content": "Your First Step"
+        },
+        {
+            "type": "text",
+            "content": "Take the first step towards turning your dreams into reality by reaching out to us, where our initial session focuses on actively listening to <b>your unique needs and aspirations</b>. Expect to hear back from us within 24 hours. <b>Your satisfaction</b> is our top priority.",
+            "spacing": 1
+        },
+        {
+            "type": "spacing",
+            "spacing": 1
+        }
+    ],
+    "settings": {
+        "pageTitle": "Direct-Page",
+        "pageContactId": "-793912056",
+        "pageType": "fullWebsite",
+        "showContactForm": "yes",
+        "showDateSelector": "no",
+        "collectEmail": "yes",
+        "googleTagId": "G-YZXS2XNHFJ",
+        "whatsapp": "60108081611"
+   
+}
