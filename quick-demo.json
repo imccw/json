@@ -4,7 +4,7 @@
     "allInfo": [
       {
         "type": "splashImage",
-        "content": "/media/vilas-de-areia-branca-kudat/slide-01.jpg",
+        "content": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-01.webp",
         "spacing": 1
       },
       {
@@ -17,107 +17,107 @@
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-02.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-02.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-03.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-03.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-04.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-04.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-05.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-05.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-06.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-06.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-07.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-07.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-08.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-08.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-09.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-09.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-10.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-10.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-11.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-11.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-12.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-12.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-13.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-13.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-14.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-14.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-15.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-15.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-16.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-16.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-17.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-17.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-18.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-18.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-19.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-19.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-20.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-20.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-21.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-21.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-22.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-22.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-23.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-23.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-24.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-24.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-25.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-25.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-26.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-26.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-27.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-27.webp"
       },
       {
         "type": "title",
@@ -125,23 +125,23 @@
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-28.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-28.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-29.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-29.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-30.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-30.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-31.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-31.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-32.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-32.webp"
       },
       {
         "type": "title",
@@ -149,15 +149,15 @@
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-33.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-33.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-34.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-34.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-35.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-35.webp"
       },
       {
         "type": "title",
@@ -165,35 +165,35 @@
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-36.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-36.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-37.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-37.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-38.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-38.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-39.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-39.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-40.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-40.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-41.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-41.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-42.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-42.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-43.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-43.webp"
       },
       {
         "type": "title",
@@ -201,43 +201,43 @@
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-44.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-44.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-45.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-45.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-46.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-46.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-47.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-47.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-48.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-48.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-49.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-49.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-50.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-50.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-51.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-51.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-52.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-52.webp"
       },
       {
         "type": "singleImage",
-        "url": "/media/vilas-de-areia-branca-kudat/slide-53.jpg"
+        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-53.webp"
       }
     ]
   },
