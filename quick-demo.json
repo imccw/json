@@ -216,38 +216,6 @@
         "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-45.webp"
       },
       {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-46.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-47.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-48.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-49.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-50.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-51.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-52.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-53.webp"
-      },
-      {
         "type": "titleSeparator",
         "content": "Contact"
       }
@@ -257,7 +225,9 @@
     "pageTitle": "Vilas De Areia Branca Kudat",
     "pageContactId": "1543879675",
     "pageType": "fullWebsite",
-    "showContactForm": "yes"
+    "showContactForm": "yes",
+    "collectEmail": "yes",
+    "whatsapp": "60192562733"
   },
   "error": false
 }
