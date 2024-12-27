@@ -8,6 +8,12 @@
         "spacing": 1
       },
       {
+        "type":"location",
+        "url":"https://maps.app.goo.gl/L6qmxxzU6xYBk5W27",
+        "text":"Location: 7°00'42\"N 116°43'54\"E",
+        "spacing":0
+      },
+      {
         "type": "spacing",
         "spacing": 1
       },
