@@ -1,0 +1,129 @@
+{
+    "pageData": {
+        "query": "wind-paradise-booking",
+        "allInfo": [
+            {
+                "type": "splashImage",
+                "content": "https://telegra.ph/file/cb10058467a2bc5ed23eb.jpg",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Welcome!"
+            },
+            {
+                "type": "location",
+                "url": "https://goo.gl/maps/T1aJ9uSPUXz",
+                "text": "Wind Paradise, Kundasang",
+                "spacing": 0
+            },
+            {
+                "type": "quickReview",
+                "rating": 4.3,
+                "text": "215+ Reviews"
+            },
+            {
+                "type": "spacing",
+                "spacing": 1
+            },
+            {
+                "type": "text",
+                "content": "Experience a perfect blend of nature and comfort at Wind Paradise, offering cosy Mongolian-style homestays and wooden lodges nestled alongside UNESCO World Heritage Kinabalu Park, providing a serene atmosphere and captivating adventures in Kundasang, complemented by stargazing and memorable moments on the BBQ and relaxation deck.",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Catalog"
+            },
+            {
+                "order": 1,
+                "type": "catalog-section"
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "MongolianYurt",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/156923388-bc242979-edf8-4a20-be57-5f19f62fad03.jpg,https://user-images.githubusercontent.com/94954470/200537227-da737295-bd82-4220-967f-1578e0e4cac3.jpg,https://user-images.githubusercontent.com/94954470/200537240-7e204af3-a2b8-478e-8c75-ad9697984e05.jpg,https://user-images.githubusercontent.com/94954470/200537246-22940013-f086-488f-9509-a788478a557e.jpg,https://user-images.githubusercontent.com/94954470/200537251-93725c48-3718-4de5-bb5b-12991a4d8ac1.jpg,https://user-images.githubusercontent.com/94954470/200537254-042bb3bc-47bf-4760-a5b4-6e690f565d28.jpg,https://user-images.githubusercontent.com/94954470/200537259-259f1ef4-0841-4e07-a1cb-9ec93facab00.jpg,https://user-images.githubusercontent.com/94954470/200537265-01e71d70-4227-4db5-9060-03e3b290fea8.jpg,https://user-images.githubusercontent.com/94954470/200537270-99e78c37-ec65-4b2c-9baf-b9af300a7f81.jpg,https://user-images.githubusercontent.com/94954470/200548107-101d11c1-418f-4201-9fb9-974a5b332e7f.jpg,https://user-images.githubusercontent.com/94954470/200537293-72686e09-7c6b-4def-9732-515ec99c9327.jpg,https://user-images.githubusercontent.com/94954470/200537302-81c1218c-eaa3-49eb-a3aa-2667cb16e08e.jpg",
+                "itemTitle": "Mongolian Chalet",
+                "itemShortDesc": "Cosy Mongolian Chalet<br>4 Person",
+                "itemLongDesc": "✔️ Unique Experience<br><br>✔️ Spacious interior and detached unit<br><br>✔️ Comfortable with own toilet<br><br><b>Type</b><br>Mongolian Chalet<br><br><b>Suitable for</b><br>2-6 person<br>2 to 4 person is the same price<br>for 5 to 6 person you will need to add extra bed<br>You can add up to 2 extra bed in this unit<br><br><b>View</b><br>Mongolian Chalet has no windows<br>So no view from the inside but from the outside you get ...<br>✔️ Superb panoramic view of Kundasang<br><br><b>What's inside</b><br>1 x 🛏 Queen bed<br>2 x 🛏 🛏 Single beds<br>✔️ Wall fan<br>✔️ Ceiling exhaust fan<br>✔️ Electric Socket<br>Private bathroom<br>✔️ Shower<br>✔️ Hairdryer (upon request)<br>✔️ Towels<br>✔️ Toilet<br>✔️ Toilet paper<br>✔️ Hot water<br>Smoking: No smoking<br><br><b>Special Needs?</b><br>✔️ Mongolian Yurt is the nearest to Carpark<br>✔️ Flat walkway from Carpark to Mongolian Yurt<br>✔️ Wheelchair friendly<br><br><b>Facilities</b><br>All common areas including:<br>✔️ BBQ and steamboat area (upon request)<br>✔️ Relaxation deck<br>✔️ Stargazing platform (new)<br>✔️ Iron (upon request)<br>✔️ Electric kettle (upon request)<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "Most Popular",
+                "itemCategory": "Mongolian Chalet",
+                "itemPrice": "Weekday: MYR 210",
+                "itemUnit": "Weekend: MYR 230<br>Holiday: MYR 300",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "squeen",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/200544502-64069470-93de-433d-8f6f-ef14473ce3ec.jpg,https://user-images.githubusercontent.com/94954470/200541885-6fafc2f2-8324-4661-ba38-59c7ba291e5f.jpg,https://user-images.githubusercontent.com/94954470/200541896-571cddcb-3a9e-403b-a890-f658b8f66833.jpg,https://user-images.githubusercontent.com/94954470/200541899-56ba01c1-81ee-4121-b399-f1b9e1df8663.jpg,https://user-images.githubusercontent.com/94954470/200541911-43d34987-a27b-4159-8ae4-2e9538eebdfa.jpg,https://user-images.githubusercontent.com/94954470/200541918-5ef852c5-2d9e-42c3-9291-7bfa57b497e0.jpg",
+                "itemTitle": "Wooden Lodge S-Queen",
+                "itemShortDesc": "Budget, smallest unit<br>2 Person",
+                "itemLongDesc": "✔️ Privacy for couple<br>✔️ Budget<br>✔️ Comfortable with own toilet.<br><br><b>Type</b><br>Wooden Lodge<br>(this is NOT a mongolian chalet)<br>(our smallest unit)<br><br><b>Suitable for</b><br>1 or 2 person is the same price<br>if 3 person you will need to add extra bed<br>You can add 1 extra bed in this unit<br><br><b>View</b><br>No view but there's a<br>✔️ Window for good ventilation and fresh air<br>✔️ Superb panoramic view of Kundasang at relaxation deck<br><br><b>What's inside</b><br>1 x 🛏 Queen bed<br>✔️ Wall fan<br>✔️ Electric Socket<br>Private bathroom<br>✔️ Shower<br>✔️ Hairdryer (upon request)<br>✔️ Towels<br>✔️ Toilet<br>✔️ Toilet paper<br>✔️ Hot water<br>Smoking: No smoking<br><br><b>Facilities</b><br>All common areas including:<br>✔️ BBQ and steamboat area (upon request)<br>✔️ Relaxation deck<br>✔️ Stargazing platform (new)<br>✔️ Iron (upon request)<br>✔️ Electric kettle (upon request)<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "Budget Friendly",
+                "itemCategory": "Wooden Lodge",
+                "itemPrice": "Weekday: MYR 100",
+                "itemUnit": "Weekend: MYR 120<br>Holiday: MYR 140",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "s-twin",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/158170239-388ba759-ce68-4c77-8da5-a1a65d8e0454.jpg,https://user-images.githubusercontent.com/94954470/200542312-5415da54-6234-487d-8e47-a0b6c5b3286e.jpg,https://user-images.githubusercontent.com/94954470/200542340-262783bb-63a1-4ef2-a8ea-68250c56a71f.jpg,https://user-images.githubusercontent.com/94954470/200542346-1288733f-773c-4a03-bd25-d353fec773ff.jpg,https://user-images.githubusercontent.com/88132463/142418302-45f20ee4-9b98-4d5d-8c3f-2e2a8fccac84.jpg",
+                "itemTitle": "Wooden Lodge S-Twin",
+                "itemShortDesc": "Mini Family Room<br>3 Person",
+                "itemLongDesc": "✔️ Value for money<br>✔️ Comfortable with own toilet<br>✔️ Corner unit therefore...<br>❌ Maybe noisy during peak season<br><br><b>Type</b><br>Wooden Lodge<br>(this is NOT a mongolian chalet)<br><br><b>Suitable for</b><br>2-3 person<br>1 to 3 person is the same price<br>if 4 person you will need to add extra bed<br>You can add 1 extra bed in this unit<br><br><b>View</b><br>No great view but...<br>✔️ Window for good ventilation and fresh air<br>✔️ Superb panoramic view of Kundasang at relaxation deck<br><br><b>What's inside</b><br>1 x 🛏 Queen bed<br>1 x 🛏 🛏 Single beds<br>✔️ Wall fan<br>✔️ Electric Socket<br>Private bathroom<br>✔️ Shower<br>✔️ Hairdryer (upon request)<br>✔️ Towels<br>✔️ Toilet<br>✔️ Toilet paper<br>✔️ Hot water<br>Smoking: No smoking<br><br><b>Facilities</b><br>All common areas including:<br>✔️ BBQ and steamboat area (upon request)<br>✔️ Relaxation deck<br>✔️ Stargazing platform (new)<br>✔️ Iron (upon request)<br>✔️ Electric kettle (upon request)<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "",
+                "itemCategory": "Wooden Lodge",
+                "itemPrice": "Weekday: MYR 140",
+                "itemUnit": "Weekend: MYR 160<br>Holiday: MYR 180",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "d-twin",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/156923370-44f32023-b24e-412c-9056-8a64d4a30f6a.jpg,https://user-images.githubusercontent.com/94954470/200543520-67636723-7d5a-46fe-aa30-39d2eefdc3fa.jpg,https://user-images.githubusercontent.com/88132463/142418302-45f20ee4-9b98-4d5d-8c3f-2e2a8fccac84.jpg",
+                "itemTitle": "Wooden Lodge D-Twin",
+                "itemShortDesc": "Family Room<br>4 Person",
+                "itemLongDesc": "✔️ Value for money<br>✔️ Spacious<br>✔️ Value for money<br>✔️ Comfortable with own toilet<br><br><b>Type</b><br>Wooden Lodge<br>(this is <b>NOT</b> a mongolian chalet)<br><br><b>Suitable for</b><br>2-4 person<br>1 to 4 person is the same price<br>if 5 person you will need to add extra bed<br>You can add 1 extra bed in this unit<br><br><b>View</b><br>Windows with some view and provide...<br>✔️ Good ventilation and fresh air<br>✔️ Superb panoramic view of Kundasang at relaxation deck<br><br><b>What's inside</b><br>2 x 🛏 Queen bed<br>✔️ Wall fan<br>✔️ Electric Socket<br>Private bathroom<br>✔️ Shower<br>✔️ Hairdryer (upon request)<br>✔️ Towels<br>✔️ Toilet<br>✔️ Toilet paper<br>✔️ Hot water<br>Smoking: No smoking<br><br><b>Facilities</b><br>All common areas including:<br>✔️ BBQ and steamboat area (upon request)<br>✔️ Relaxation deck<br>✔️ Stargazing platform (new)<br>✔️ Iron (upon request)<br>✔️ Electric kettle (upon request)<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "",
+                "itemCategory": "Wooden Lodge",
+                "itemPrice": "Weekday: MYR 180",
+                "itemUnit": "Weekend: MYR 200<br>Holiday: MYR 220",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "sunrise",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/200543496-a33ab714-ae6c-43f5-bbb6-f60c9f665e00.jpg,https://user-images.githubusercontent.com/94954470/200543506-011478f5-2a93-4c3a-914f-e1b1105cf9c1.jpg,https://user-images.githubusercontent.com/94954470/200543512-940085ba-c173-475c-b6eb-0f1d324701d0.jpg,https://user-images.githubusercontent.com/94954470/200543528-1f91cb0e-e3ed-4d64-a10c-e9c25b31fee7.jpg,https://user-images.githubusercontent.com/94954470/200543533-9be58e12-1def-46ff-924c-9d95d4005ed9.jpg,https://user-images.githubusercontent.com/94954470/200543537-928e2924-45a2-447c-a4e4-1572a648e6a6.jpg,https://user-images.githubusercontent.com/94954470/200543545-dabca447-d721-4e39-b9ed-f2a92ef88219.jpg,https://user-images.githubusercontent.com/94954470/200543548-65793623-2013-4f30-9b9a-ec6929ec58a5.jpg,https://user-images.githubusercontent.com/94954470/200543555-ece8f07b-09a8-4bf9-b2cb-f87466231c8d.jpg,https://user-images.githubusercontent.com/94954470/200543556-41e587aa-2f58-429b-95df-61021fd63cba.jpg,https://user-images.githubusercontent.com/94954470/200543564-976facec-04d6-466d-aa2f-9157e64a6a99.jpg",
+                "itemTitle": "Wooden Lodge Sunrise",
+                "itemShortDesc": "Large Family Room with Sunrise View<br>4 Person",
+                "itemLongDesc": "✔️ Spacious<br>✔️ Magnificent Sunrise View<br>✔️ Comfortable with own toilet<br><br><b>Type</b><br>Wooden Lodge - Sunrise<br>(this is <b>NOT</b> a mongolian chalet)<br><br><b>Suitable for</b><br>2-4 person<br>1 to 4 person is the same price<br>if 5-6 person you will need to add extra bed<br>You can add 2 extra bed in this unit<br><br><b>View</b><br>✔️Large windows for superb morning sunrise<br>✔️ Good ventilation and fresh air<br>✔️ Superb panoramic view of Kundasang at relaxation deck<br><br><b>What's inside</b><br>2 x 🛏 Queen bed<br>✔️ Wall fan<br>✔️ Electric Socket<br>✔️ Extra large windows<br>Private bathroom<br>✔️ Shower<br>✔️ Hairdryer (upon request)<br>✔️ Towels<br>✔️ Toilet<br>✔️ Toilet paper<br>✔️ Hot water<br>Smoking: No smoking<br><br><b>Facilities</b><br>All common areas including:<br>✔️ BBQ and steamboat area (upon request)<br>✔️ Relaxation deck<br>✔️ Stargazing platform (new)<br>✔️ Iron (upon request)<br>✔️ Electric kettle (upon request)<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "Best sunrise view!",
+                "itemCategory": "Wooden Lodge",
+                "itemPrice": "Weekday: MYR 200",
+                "itemUnit": "Weekend: MYR 220<br>Holiday: MYR 280",
+                "spacing": 0
+            }
+        ]
+    },
+    "settings": {
+        "pageTitle": "Wind Paradise Kundasang",
+        "pageContactId": "1543879675",
+        "pageType": "fullWebsite",
+        "showContactForm": "yes",
+        "showStartingAndEndingDateSelector": "yes",
+        "ableToChooseMoreThanOne": "yes",
+        "collectEmail": "no",
+        "googleTagId": "AW-11022077320",
+        "logo": "WindParadiseLogo",
+        "googlePhotoGalleryUrl": "Xi1RCQV5zKYN7jiU8",
+        "googlePhotoGalleryPreview": "https://telegra.ph/file/e33b752d3f0f77b87a561.jpg",
+        "tnc": "<table class='table' style='font-size:0.75rem'><tbody><tr><td><small>Please read carefully.</small></td></tr><tr><td><b>Number of Persons</b><br><ul><li>The term 'Number of Persons' refers to the total number of individuals, including children above 12 years old.</li><li>Bookings should be made based on the accurate number of persons intending to stay.</li><li>Any additional individuals in your room after 9pm will be subject to applicable charges.</li><li>Children below 12 years old are considered complimentary and can be excluded in the headcount.</li><li>Guests are not permitted to take any of the provided chalet equipment.</li><li>Please note that it doesn't imply unlimited accommodation for more than 2 children.</li></ul></td></tr><tr><td><b>House Rules</b><br><ul><li>Guests are prohibited from accommodating extra persons in their room. Visitors arriving after 9pm will incur an additional charge of MYR 50 per person.</li><li>Cooking is only allowed in designated areas and not within the rooms due to potential fire hazards.</li><li>Non-halal food, Smoking, Durian, Jackfruit (Nangka), Mangosteen and pets are strictly not allowed anywhere within the premises.</li><li>Kindly refrain from creating loud disturbances, particularly between the hours of 10pm and 7am.</li><li>Please observe the designated check-in time of 3pm to 9pm and check-out time of 9am to 11am.</li><li>If you require a different timing, please inform us in advance, but please note that check-in or check-out arrangements beyond midnight are not accepted.</li></ul></td></tr><tr><td><b>Cancellation Policy</b><br><ul><li>All prepaid bookings are non-refundable and non-transferable.</li><li>Cancellation requests will not be entertained once the booking is confirmed.</li><li>Should you need to make any amendments, please provide a notice of at least 30 days prior to the scheduled date, subject to room availability.</li><li>Failure to arrive for your reservation will result in forfeiture of the payment.</li></ul></td></tr><tr><td><b>Please Take Note</b><br><ul><li>Always close the gate when entering or leaving the homestay to prevent animals (dogs) from entering.</li><li>Avoid making noise or using sound amplification devices that disturb neighbors after 10 PM.</li><li>Only halal food and drinks are allowed; alcohol is not permitted.</li><li>Prohibited items such as explosives, bombs, bullets, drugs, and marijuana are strictly not allowed.</li><li>Before checking out, please ensure you haven't left any personal belongings behind. Any forgotten items will be disposed of.</li><li>During your stay, the homestay management will not be held responsible for the loss of your valuable belongings.</li></ul></td></tr></tbody></table>"
+    },
+    "error": false
+}

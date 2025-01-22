@@ -1,0 +1,108 @@
+{
+    "pageData": {
+        "query": "murug-turug-booking",
+        "allInfo": [
+            {
+                "type": "splashImage",
+                "content": "https://telegra.ph/file/3363b3c3ea1dd646850c4.jpg",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Welcome!"
+            },
+            {
+                "type": "location",
+                "url": "https://goo.gl/maps/wEceTL1TvoFpfV7P9",
+                "text": "Murug Turug, Tamparuli, Sabah",
+                "spacing": 0
+            },
+            {
+                "type": "quickReview",
+                "rating": 4.7,
+                "text": "402+ Reviews"
+            },
+            {
+                "type": "spacing",
+                "spacing": 1
+            },
+            {
+                "type": "text",
+                "content": "Murug Turug, also known as the Heaven of Waterfalls, is an award winning tourism site - Sabah Tourism Award 2019 - Best community-Based Tourism Initiative (Rural).<br><br>Located 11km off Tamparuli Sabah, it has attracted thousands of visitors from all around the world since its opening.",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Choose Your Package"
+            },
+            {
+                "type": "catalog-section"
+            },
+            {
+                "type": "catalog",
+                "itemId": "pa",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/162553382-dd2c4142-6375-4c44-b3b8-dc33ea717a0e.jpg,https://user-images.githubusercontent.com/94954470/162552261-73b957b0-4da6-46d8-854b-a481c06a1e62.jpg,https://user-images.githubusercontent.com/94954470/162552263-ce4ab010-247c-4fee-9f37-8d97645581a1.jpg,https://user-images.githubusercontent.com/94954470/162552266-eb64f548-7e3e-4f5b-bcfd-5974639d1da9.jpg,https://user-images.githubusercontent.com/94954470/162552268-c9c02265-8859-4161-b437-5ec536147607.jpg,https://user-images.githubusercontent.com/94954470/162552272-4ae00a97-ea78-49f6-b21b-145c0d4aabe1.jpg,https://user-images.githubusercontent.com/94954470/162552273-866059af-5b5b-4733-8b12-04bbd3de637b.jpg,https://user-images.githubusercontent.com/94954470/162552274-a5f84fc6-cd3c-4531-bba1-bc2e15ef66b1.jpg,https://user-images.githubusercontent.com/94954470/162552276-10ded5ad-2e89-4e9a-9cb0-fb58e3f642b7.jpg,https://user-images.githubusercontent.com/94954470/162552277-4e128eb0-d89d-46d0-8f07-eea49ab195a1.jpg,https://user-images.githubusercontent.com/94954470/162552278-3148487e-158c-468f-8c40-5038162be749.jpg,https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+                "itemTitle": "Package A : 3 KM",
+                "itemShortDesc": "A short hike directly to the main waterfalls",
+                "itemLongDesc": "✔️ 1 Waterfall<br>✔️ Murug-Turug Waterfall<br>✔️ Conservation Fee<br>Level: Easy<br>Total Distance: 3km(return trail)<br>Registration open 730am<br>All hikers are allowed to stay at waterfall area until 4pm only<br>All hikers must leave waterfall site before 4pm<br>All hikers must reach back to check point before 5pm<br>Extra fee for guide if over 5pm is needed at rm15/hour<br>4x4 Grab transportation is available if needed for 1.3km but you will still need to hike around 300meters to reach waterfall<br><br><b>Itinerary</b><br>0730 Registration and briefing<br>0800 Start Hiking<br>0900 Arrive at waterfall<br>1600 Leave waterfall 1700 Arrive at starting point",
+                "itemPill": "Easy",
+                "itemCategory": "DAY TRIP",
+                "itemPrice": "MYR 6 /pax",
+                "itemUnit": "Guide: MYR 35.00 / 5pax",
+                "spacing": 0
+            },
+            {
+                "type": "catalog",
+                "itemId": "pb",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/162557016-f46899b3-c9da-4909-8290-7f567b00d3c9.jpg,https://user-images.githubusercontent.com/94954470/162557020-bf57454f-2bee-4fe2-be9e-e78ddcc154f5.jpg,https://user-images.githubusercontent.com/94954470/162557022-ed4b2f4a-94df-415b-830f-d654241dc0ca.jpg,https://user-images.githubusercontent.com/94954470/162557024-e875427f-f244-4c5f-bf17-aba66dbfd660.jpg,https://user-images.githubusercontent.com/94954470/162557025-d1bfe9da-6110-4f83-b8a3-e49008511de8.jpg,https://user-images.githubusercontent.com/94954470/162557026-80b67291-2951-41db-affa-abc2dc9eca35.jpg,https://user-images.githubusercontent.com/94954470/162557027-7d612a62-d223-4a9d-9b0c-20aede1046b3.jpg,https://user-images.githubusercontent.com/94954470/162557029-16d59b44-1e06-4956-aa16-91c96e28b0f6.jpg,https://user-images.githubusercontent.com/94954470/162557030-b3c67588-60d9-4625-98f7-7f786f0fa8e1.jpg,https://user-images.githubusercontent.com/94954470/162557032-3c853fbf-c8e0-4251-a495-77294f655760.jpg,https://user-images.githubusercontent.com/94954470/162557033-fe20fc50-d349-4077-bed8-4f2e495af00f.jpg,https://user-images.githubusercontent.com/94954470/162557034-d0b5173a-a46e-4932-aedb-18d81cbeafc9.jpg,https://user-images.githubusercontent.com/94954470/162557035-5096610a-4f75-437f-a365-d0b7ceb114cf.jpg,https://user-images.githubusercontent.com/94954470/162557036-a74ae223-ab6e-49d9-acff-96eee48747ef.jpg,https://user-images.githubusercontent.com/94954470/162557037-a46c8534-7113-4e88-b9fc-65de27a0943c.jpg,https://user-images.githubusercontent.com/94954470/162559118-7037876d-a1b7-41b7-8eed-0fc236d6791d.jpg,https://user-images.githubusercontent.com/94954470/162559119-4c99fa0c-5bb2-454f-801a-a3336ff64ee1.jpg,https://user-images.githubusercontent.com/94954470/162557019-520ad366-b323-4db8-8aa6-b33b8b682a02.jpg,https://user-images.githubusercontent.com/94954470/162557018-694e6255-dbd5-4c6e-8fe2-30281f2a95fb.jpg",
+                "itemTitle": "Package B : 4 KM",
+                "itemShortDesc": "An intermediate hike to 3 main waterfalls<br><b>Note!</b><br>Not suitable for child < 12 years old.",
+                "itemLongDesc": "✔️ 3 Waterfall<br>✔️ Kionop Waterfall<br>✔️ Piolungan Waterfall<br>✔️ Murug-Turug Waterfall<br>✔️ Conservation Fee<br>Level: Moderate<br>Total Distance: 4km(semi loop trail)<br>Registration open 730am<br>All hikers are allowed to stay at waterfall area until 4pm only<br>All hikers must leave waterfall site before 4pm<br>All hikers must reach back to check point before 5pm<br>Extra fee for guide if over 5pm is needed at rm15/hour<br>4x4 Grab transportation is available if needed for 1.3km but you will still need to hike around 300meters to reach waterfall<br><br><b>Itinerary</b><br>0730 Registration and briefing<br>0800 Start Hiking<br>0900 Arrive at first waterfall<br>-Kionop Waterfall<br>-Piolungan Waterfall<br>-Murug-Turug Waterfall<br>1600 Leave the last waterfall<br>1700 Arrive at starting point",
+                "itemPill": "Intermediate",
+                "itemCategory": "DAY TRIP",
+                "itemPrice": "MYR 10 /pax",
+                "itemUnit": "Guide: MYR 40.00 / 5pax",
+                "spacing": 0
+            },
+            {
+                "type": "catalog",
+                "itemId": "pc",
+                "itemPhotos": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakejc.webp,https://user-images.githubusercontent.com/94954470/162558100-d5702761-4591-4799-83c9-dd946c65064b.jpg,https://user-images.githubusercontent.com/94954470/162558102-e7431c1d-70ce-4cad-8dcd-c625ead4c5ea.jpg,https://user-images.githubusercontent.com/94954470/162558103-4920ff2a-ef75-44a7-b2a8-7e957ae2aa93.jpg,https://user-images.githubusercontent.com/94954470/162558106-6ff3649d-d6d8-4fda-8365-58e8c0754651.jpg,https://user-images.githubusercontent.com/94954470/162558107-55bbf56a-a1a1-48bc-b401-7aa9b68762c0.jpg,https://user-images.githubusercontent.com/94954470/162558108-4508553f-e81b-49df-883b-bb1a0869100f.jpg,https://user-images.githubusercontent.com/94954470/162558112-be256c61-c57b-431e-a28e-94167a67b809.jpg,https://user-images.githubusercontent.com/94954470/162558115-323644af-eea3-40ec-b9e5-7881c0ea6e4d.jpg,https://user-images.githubusercontent.com/94954470/162558119-daba6b81-8613-4040-a44b-b19ac945bd67.jpg,https://user-images.githubusercontent.com/94954470/162558120-a348b8c1-a331-44a1-b976-79f66f9076df.jpg,https://user-images.githubusercontent.com/94954470/162558121-2762047f-6316-49d1-bc9a-a22119c4afcc.jpg,https://user-images.githubusercontent.com/94954470/162558124-1c6a7da0-4533-4f9b-84cb-e15e5817a03c.jpg,https://user-images.githubusercontent.com/94954470/162558127-7bf8c313-0c93-4748-9f4c-65e6416b71f0.jpg,https://user-images.githubusercontent.com/94954470/162558128-2cc35978-945a-42f6-ae87-08fd2df6f0c7.jpg,https://user-images.githubusercontent.com/94954470/162558129-345b6d97-320f-480f-b689-c95941ea5876.jpg,https://user-images.githubusercontent.com/94954470/162558130-1452af25-c260-4905-b1ea-5452d42f02da.jpg,https://user-images.githubusercontent.com/94954470/162558131-69cda91e-ac48-484f-8076-6f3155c2dc03.jpg,https://user-images.githubusercontent.com/94954470/162559121-0fca7055-fd0b-484b-94e2-7d72a3e75ddc.jpg",
+                "itemTitle": "Package C : 6.8 KM",
+                "itemShortDesc": "An advance trail covering 6 waterfalls<br><b>Note!</b><br>Not suitable for child < 12 years old.",
+                "itemLongDesc": "Full Trail<br>Level: Advanced<br>Total Distance: 6.8km(loop trail)<br>Not recommended for beginner hiker<br>Estimated 4-6 hours to complete<br>All hikers must reach back to check point before 5pm<br>Extra fee for guide if over 5pm is needed at RM15/hour<br><br><b>Itinerary</b><br>0730 Registration and briefing<br>0800 Start Hiking<br>0900 Arrive at first waterfall<br>-Malas Kalas Waterfalls<br>-Minansur II Waterfalls<br>-Lobuan Waterfalls<br>-Murug-Turug Waterfalls<br>-Piolungan Waterfalls<br>-Kionop Waterfalls<br>1600 Leave the last waterfall<br>1700 Arrive at starting point",
+                "itemPill": "Advanced",
+                "itemCategory": "DAY TRIP",
+                "itemPrice": "MYR 18 /pax",
+                "itemUnit": "Guide: MYR 60.00 /3 pax",
+                "spacing": 0
+            },
+            {
+                "type": "catalog",
+                "itemId": "pu",
+                "itemPhotos": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakejultra.webp,https://user-images.githubusercontent.com/94954470/162558100-d5702761-4591-4799-83c9-dd946c65064b.jpg,https://user-images.githubusercontent.com/94954470/162558102-e7431c1d-70ce-4cad-8dcd-c625ead4c5ea.jpg,https://user-images.githubusercontent.com/94954470/162558103-4920ff2a-ef75-44a7-b2a8-7e957ae2aa93.jpg,https://user-images.githubusercontent.com/94954470/162558105-77162e06-04b5-4380-93e9-81e3b08bfc14.jpg,https://user-images.githubusercontent.com/94954470/162558106-6ff3649d-d6d8-4fda-8365-58e8c0754651.jpg,https://user-images.githubusercontent.com/94954470/162558107-55bbf56a-a1a1-48bc-b401-7aa9b68762c0.jpg,https://user-images.githubusercontent.com/94954470/162558108-4508553f-e81b-49df-883b-bb1a0869100f.jpg,https://user-images.githubusercontent.com/94954470/162558112-be256c61-c57b-431e-a28e-94167a67b809.jpg,https://user-images.githubusercontent.com/94954470/162558115-323644af-eea3-40ec-b9e5-7881c0ea6e4d.jpg,https://user-images.githubusercontent.com/94954470/162558116-a0303756-154d-4699-a94d-8ba6e3ba963a.jpg,https://user-images.githubusercontent.com/94954470/162558119-daba6b81-8613-4040-a44b-b19ac945bd67.jpg,https://user-images.githubusercontent.com/94954470/162558120-a348b8c1-a331-44a1-b976-79f66f9076df.jpg,https://user-images.githubusercontent.com/94954470/162558121-2762047f-6316-49d1-bc9a-a22119c4afcc.jpg,https://user-images.githubusercontent.com/94954470/162558123-3373a7cf-3f57-4ba6-93fa-115955503919.jpg,https://user-images.githubusercontent.com/94954470/162558124-1c6a7da0-4533-4f9b-84cb-e15e5817a03c.jpg,https://user-images.githubusercontent.com/94954470/162558127-7bf8c313-0c93-4748-9f4c-65e6416b71f0.jpg,https://user-images.githubusercontent.com/94954470/162558128-2cc35978-945a-42f6-ae87-08fd2df6f0c7.jpg,https://user-images.githubusercontent.com/94954470/162558129-345b6d97-320f-480f-b689-c95941ea5876.jpg,https://user-images.githubusercontent.com/94954470/162558130-1452af25-c260-4905-b1ea-5452d42f02da.jpg,https://user-images.githubusercontent.com/94954470/162558131-69cda91e-ac48-484f-8076-6f3155c2dc03.jpg,https://user-images.githubusercontent.com/94954470/162559121-0fca7055-fd0b-484b-94e2-7d72a3e75ddc.jpg",
+                "itemTitle": "Package Ultra : 8 KM",
+                "itemShortDesc": "A hard trail for covering 7 waterfalls.<br><b>Note!</b><br>Not suitable for child < 12 years old.",
+                "itemLongDesc": "Full Trail<br>Level: Hard<br>Total Distance: 8km (loop trail)<br>Not recommended for beginner hiker<br>Estimated 4-6 hours to complete<br>All hikers must reach back to check point before 5pm<br>Extra fee for guide if over 5pm is needed at RM15/hour<br><br><b>Itinerary</b><br>0730 Registration and briefing<br>0800 Start Hiking<br>0900 Arrive at first waterfall<br>-Malas Kalas Waterfalls<br>-Malas Kalas Peak (410m asl)<br>-Minansur I Waterfalls<br>-Minansur II Waterfalls<br>-Lobuan Waterfalls<br>-Murug-Turug Waterfalls<br>-Piolungan Waterfalls<br>-Kionop Waterfalls<br>1600 Leave the last waterfall<br>1700 Arrive at starting point",
+                "itemPill": "Hard",
+                "itemCategory": "DAY TRIP",
+                "itemPrice": "MYR 20 /pax",
+                "itemUnit": "Guide: MYR 70.00 /3 pax",
+                "spacing": 0
+            }
+        ]
+    },
+    "settings": {
+        "pageTitle": "Murug Turug",
+        "pageContactId": "1543879675",
+        "pageType": "fullWebsite",
+        "showContactForm": "yes",
+        "showDateSelector": "yes",
+        "ableToChooseMoreThanOne": "yes",
+        "collectEmail": "no",
+        "googleTagId": "G-B26PEW3X8X",
+        "logo": "MurugTurugLogo",
+        "tnc": "<table class='table' style='font-size:0.75rem'><tbody><tr><td><small>Please read carefully.</small></td></tr><tr><td><b>Note:</b><br><ul><li>There is a daily admission total quota.</li><li>To avoid full visitor admission quota, it is advisable to book <b>3 days before</b> actual day of hiking.</li><li>Hiking activities is at <b>your own risk</b>.</li></ul></td></tr><tr><td><b>Cancellation Policy</b><br><ul><li>📌 REFUND Payment is only possible if your TEAM withdraws 72 hours before hiking / MTET informs the Weather that it is not suitable for hiking / or any Emergency alert from the MTET.</li></ul></td></tr></tbody></table>"
+    },
+    "error": false
+}
