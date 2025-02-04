@@ -1,0 +1,129 @@
+{
+    "pageData": {
+        "query": "tisan-nulu-booking",
+        "allInfo": [
+            {
+                "type": "splashImage",
+                "content": "https://telegra.ph/file/9a7fd69065b804d40bedb.jpg",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Welcome!"
+            },
+            {
+                "type": "location",
+                "url": "https://goo.gl/maps/kidnJ5RSF4SfH9uL7",
+                "text": "Tisan Nulu, Kundasang",
+                "spacing": 0
+            },
+            {
+                "type": "quickReview",
+                "rating": 4.1,
+                "text": "47+ Reviews"
+            },
+            {
+                "type": "spacing",
+                "spacing": 1
+            },
+            {
+                "type": "text",
+                "content": "Nestled between the Kundasang roundabout and the renowned Desa Milk Farm, Tisan Nulu beckons with a selection of welcoming rooms and charming bungalows. Indulge in the added convenience of shared kitchen and BBQ facilities. Here, amidst stunning views of Mount Kinabalu from the relaxation deck, you're invited to craft unforgettable moments.",
+                "spacing": 1
+            },
+            {
+                "type": "title",
+                "content": "Catalog"
+            },
+            {
+                "order": 1,
+                "type": "catalog-section"
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "bungalow",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/182417592-6353e4ce-6f85-41ff-8704-1ad1080721e0.jpg,https://user-images.githubusercontent.com/94954470/182417607-f0fe9181-0250-4356-ba65-b897b2abfe39.jpg,https://user-images.githubusercontent.com/94954470/182417609-7130e975-eeb8-424f-9f02-49e4bfe24fd9.jpg,https://user-images.githubusercontent.com/94954470/182417612-3505f701-4feb-4857-986b-3bb0dee14f24.jpg,https://user-images.githubusercontent.com/94954470/182417616-8876cc02-2374-4dbd-a15d-753d4767081c.jpg,https://user-images.githubusercontent.com/94954470/182417619-ff0c7ab7-051f-4c5e-8861-246bb925386a.jpg,https://user-images.githubusercontent.com/94954470/183247247-39ad55fa-acac-4650-9cab-b6233f7aa5db.jpg",
+                "itemTitle": "Big Bungalow",
+                "itemShortDesc": "Bungalow with BBQ area on the ground floor",
+                "itemLongDesc": "✔️ Privacy<br>✔️ Spacious and detached unit<br>✔️ With living room and kitchen<br><br><b>Type</b><br>Bungalow with<br>✔️ 2 rooms<br>✔️ 2 bathrooms<br><br><b>Suitable for</b><br>Family<br>4 person<br>You can add up to 4 extra bed in this bungalow<br><br><b>View</b><br>Superb Mount Kinabalu view<br><br><b>What's inside</b><br>Total 2 rooms<br>Room1<br>✔️ 1 x 🛏 Double bed<br>✔️ Connecting bathroom<br>Room2<br>✔️ 1 x 🛏 Double bed<br>✔️ Connecting bathroom<br>1 x Common bathroom at Living Room<br>Both bathrooms come with water heater<br><br><b>Facilities</b><br>Kitchen with<br>✔️ Stove<br>✔️ Cooking tools<br>✔️ Refrigerator<br>✔️ Kettle<br>✔️ Dining Table<br><br>Living Room with<br>✔️ TV<br>✔️ Sofa<br>✔️ Ceiling Fan<br><br>Balcony with:<br>✔️ Mount Kinabalu view<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "Most Popular",
+                "itemCategory": "Big Bungalow",
+                "itemPrice": "MYR 350",
+                "itemUnit": "/Night",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "deluxeQueen",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/182873852-a4e63acb-f4c1-461f-bb48-3e7d0bdfdd9d.jpg,https://user-images.githubusercontent.com/94954470/182873872-5a3a641c-d5ea-4d92-94d1-187d77295a7f.jpg,https://user-images.githubusercontent.com/94954470/182873876-84d108a0-e5f1-4167-8e6a-3c56b2c5737d.jpg,https://user-images.githubusercontent.com/94954470/182873881-e2d75e60-45a9-4d41-abbe-1eca4cbc9ca1.jpg,https://user-images.githubusercontent.com/94954470/182873886-e0926c8a-37f4-4e0c-acbc-2fca0ffc3452.jpg,https://user-images.githubusercontent.com/94954470/182873888-2d9ee0b4-da99-45bb-a6c3-bd8bc15c77dc.jpg,https://user-images.githubusercontent.com/94954470/182873893-2c435d08-0122-47e5-8762-2a8809c7f309.jpg,https://user-images.githubusercontent.com/94954470/182771143-c06eee6c-6ffd-4cdc-a445-8338b1d4ab62.jpg,https://telegra.ph/file/92cff9469f364e256c2f3.jpg,https://telegra.ph/file/679559f5af214c790af17.jpg",
+                "itemTitle": "Deluxe Queen",
+                "itemShortDesc": "Corner room with queen bed, suitable for couple",
+                "itemLongDesc": "✔️ Windy and Corner unit<br>✔️ Budget and Comfortable<br>✔️ Comes with own toilet<br><br><b>Type</b><br>Room<br><br><b>Suitable for</b><br>2 person<br>Couple<br>You can add up to 2 extra bed in this unit<br><br><b>View</b><br>Mount Kinabalu View from your room<br><br><b>Room Number</b><br>Ground Floor - Room 3<br>First Floor - Room 12<br>First floor has balcony<br>Can assign specific room for you according to situation on exact day<br><br><b>What's inside</b><br>1 x 🛏 Double bed<br>✔️ Kettle<br>✔️ Drinking Water<br>✔️ TV<br>✔️ Coffee Table<br>✔️ Chairs<br>Private bathroom<br>✔️ Water heater<br><br><b>Facilities</b><br>✔️ Shared Kitchen<br>✔️ Can do BBQ<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "Couple",
+                "itemCategory": "Family Block",
+                "itemPrice": "MYR 120",
+                "itemUnit": "/Night",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "triple",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/182846446-478f5f57-bdf2-42f9-b49c-56a574409dfc.jpg,https://user-images.githubusercontent.com/94954470/182846459-e1e32c43-338f-4669-bcbe-7bf941d4100d.jpg,https://user-images.githubusercontent.com/94954470/182846463-e12f3cf5-dcfe-4cf8-9028-dc4208477c76.jpg,https://user-images.githubusercontent.com/94954470/182846469-ceeccf3a-4099-48c1-b9b3-00a5298e305c.jpg,https://user-images.githubusercontent.com/94954470/182846473-2e63fd64-8410-4c96-bd51-6a42dc5cacb9.jpg,https://user-images.githubusercontent.com/94954470/182846475-b0212074-b186-465b-a2ad-11105f1ea636.jpg,https://user-images.githubusercontent.com/94954470/182846477-13bce87d-66f9-4e9a-9c77-75a9c8e7c6f2.jpg,https://telegra.ph/file/92cff9469f364e256c2f3.jpg,https://telegra.ph/file/679559f5af214c790af17.jpg",
+                "itemTitle": "Triple Single",
+                "itemShortDesc": "Spacious room for 3 person, located on the ground floor",
+                "itemLongDesc": "✔️ Versatile with 3 single beds<br>✔️ Budget and Comfortable<br>✔️ Comes with own toilet<br><br><b>Type</b><br>Room<br><br><b>Suitable for</b><br>3 person<br>You can add up to 3 extra bed in this unit<br><br><b>View</b><br>Mount Kinabalu View in the garden<br><br><b>Room Number</b><br>Ground Floor - Room 6<br>Our only unit<br><br><b>What's inside</b><br>3 x 🛏 Single  bed<br>✔️ Kettle<br>✔️ Drinking Water<br>✔️ TV<br>✔️ Table<br>✔️ Chairs<br>Private bathroom<br>✔️ Water heater<br><br><b>Facilities</b><br>✔️ Shared Kitchen<br>✔️ Can do BBQ<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "",
+                "itemCategory": "Family Block",
+                "itemPrice": "MYR 160",
+                "itemUnit": "/Night",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "super",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/182514447-b979cc1d-6a2f-4ecd-8a41-a65cffcf97a6.jpg,https://user-images.githubusercontent.com/94954470/182514455-3f159496-82b4-4706-8b5f-cc3306ff8871.jpg,https://user-images.githubusercontent.com/94954470/182514457-b06f55c5-6c66-4964-9603-eb16434209e7.jpg,https://user-images.githubusercontent.com/94954470/182514459-ae2bd2f3-92b0-4074-8d6a-d4063031bb39.jpg,https://user-images.githubusercontent.com/94954470/182514465-54db678e-c2b6-4626-b831-854e1884cbf5.jpg,https://user-images.githubusercontent.com/94954470/182514467-8e0a8331-26cd-4f20-ab66-94b7d67d9739.jpg,https://user-images.githubusercontent.com/94954470/182514469-7cee24a8-f636-4747-8c87-f696b234095d.jpg,https://telegra.ph/file/92cff9469f364e256c2f3.jpg,https://telegra.ph/file/679559f5af214c790af17.jpg",
+                "itemTitle": "Superior Room",
+                "itemShortDesc": "Garden with Mount Kinabalu’s view",
+                "itemLongDesc": "✔️ Comfortable for small family<br>✔️ Budget and value<br>✔️ Comes with own toilet<br><br><b>Type</b><br>Room<br><br><b>Suitable for</b><br>Small family<br>3 person<br>You can add up to 3 extra bed in this unit<br><br><b>View</b><br>Mount Kinabalu View in the garden<br><br><b>Room Number</b><br>Ground Floor - Room 4<br>First Floor - Room 8 - 9 - 10 - 11<br>First floor has balcony<br>Can assign specific room for you according to situation on exact day<br><br><b>What's inside</b><br>1 x 🛏 Double bed<br>1 x 🛏 Single bed<br>✔️ Kettle<br>✔️ Drinking Water<br>✔️ TV<br>✔️ Coffee Table<br>✔️ Chairs<br>Private bathroom<br>✔️ Water heater<br><br><b>Facilities</b><br>✔️ Shared Kitchen<br>✔️ Can do BBQ<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "",
+                "itemCategory": "Family Block",
+                "itemPrice": "MYR 160",
+                "itemUnit": "/Night",
+                "spacing": 0
+            },
+            {
+                "order": 1,
+                "type": "catalog",
+                "itemId": "doubleQueen",
+                "itemPhotos": "https://user-images.githubusercontent.com/94954470/182510536-6659cbaa-6d07-4f6e-b245-d081bbb633d9.jpg,https://user-images.githubusercontent.com/94954470/182510543-22e4b8b0-e064-4445-a435-af1d97e4dca2.jpg,https://user-images.githubusercontent.com/94954470/182510546-d3f5b0a0-caf2-4419-9f48-0b71fb0bcd6c.jpg,https://user-images.githubusercontent.com/94954470/182510551-a308b676-9fc8-4ae8-bee3-107da0d183f6.jpg,https://user-images.githubusercontent.com/94954470/182510554-ab864b6e-ac58-467a-a9dc-6a0a13936b82.jpg,https://user-images.githubusercontent.com/94954470/182510555-9a1234ff-3e18-4411-9c86-2435372680c2.jpg,https://telegra.ph/file/92cff9469f364e256c2f3.jpg,https://telegra.ph/file/679559f5af214c790af17.jpg",
+                "itemTitle": "Family Double Queen",
+                "itemShortDesc": "Garden with Moubt Kinabalu’s view",
+                "itemLongDesc": "✔️ Comfortable for family<br>✔️ Our best value offer<br>✔️ Comes with own toilet<br><br><b>Type</b><br>Room<br><br><b>Suitable for</b><br>Small family<br>4 person<br>You can add up to 2 extra bed in this unit<br><br><b>View</b><br>Mount Kinabalu View in the garden<br><br><b>Room Number</b><br>Ground Floor - Room 5 - Room 7<br>Only available on ground floor<br>Can assign specific room for you according to situation on exact day<br><br><b>What's inside</b><br>2 x 🛏 Double bed<br>✔️ Kettle<br>✔️ Drinking Water<br>✔️ TV<br>✔️ Coffee Table<br>✔️ Chairs<br>Private bathroom<br>✔️ Water heater<br><br><b>Facilities</b><br>✔️ Shared Kitchen<br>✔️ Can do BBQ<br><br><b>Parking</b><br>✔️ Free public parking is available on site",
+                "itemPill": "",
+                "itemCategory": "Family Block",
+                "itemPrice": "MYR 160",
+                "itemUnit": "/Night",
+                "spacing": 0
+            }
+        ]
+    },
+    "settings": {
+        "pageTitle": "Tisan Nulu Kundasang",
+        "pageContactId": "1543879675",
+        "pageType": "fullWebsite",
+        "showContactForm": "yes",
+        "showStartingAndEndingDateSelector": "yes",
+        "ableToChooseMoreThanOne": "yes",
+        "collectEmail": "no",
+        "googleTagId": "G-6SDWS9J5BY",
+        "logo": "TisanNuluLogo",
+        "googlePhotoGalleryUrl": "NVVjQ2s5MWdRa3RKdnU1Vk5zX3JCeC1mNXRINUNB",
+        "googlePhotoGalleryPreview": "https://telegra.ph/file/b988b73a42113ecd7b456.jpg",
+        "tnc": "<table class='table' style='font-size:0.75rem'><tbody><tr><td><small>Please read carefully.</small></td></tr><tr><td><b>Number of Persons</b><br><ul><li>The term 'Number of Persons' refers to the total number of individuals, including children above 12 years old.</li><li>Bookings should be made based on the accurate number of persons intending to stay.</li></ul></td></tr><tr><td><b>House Rules</b><br><ul><li>Smoking and pets are not allowed anywhere in the compound.</li><li>You can cook in the kitchen (bungalow) or sharing kitchen (family block).</li><li>Please do not make loud noises especially from 10pm-7am.</li><li>Please respect the check-in-time of 3pm to 6pm, and check-out-time of 9am to 11am.</li><li>Please observe the designated check-in time of 3pm to 9pm and check-out time of 9am to 11am.</li><li>You cannot check in after 6pm unless with prior special arrangement.</li></ul></td></tr><tr><td><b>Cancellation Policy</b><br><ul><li>All prepaid bookings are non-refundable and non-transferable.</li><li>No cancellation will be applied once booking is confirmed.</li><li>You must provide notice, at least 30 days before actual date for any amendment, and it will be subject to room availability.</li><li>No show or Non-arrival will result in forfeiture of the payments.</li></ul></td></tr></tbody></table>"
+    },
+    "error": false
+}
