@@ -1,239 +1,223 @@
 {
-  "pageData": {
-    "query": "vilas-de-areia-branca-kudat",
-    "allInfo": [
-      {
-        "type": "splashImage",
-        "content": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-01.webp",
-        "spacing": 1
-      },
-      {
-        "type": "location",
-        "url": "https://maps.app.goo.gl/L6qmxxzU6xYBk5W27",
-        "text": "Location: 7°00'42\"N 116°43'54\"E",
-        "spacing": 0
-      },
-      {
-        "type": "spacing",
-        "spacing": 1
-      },
-      {
-        "type": "title",
-        "content": "SAMPLE"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-02.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-03.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-04.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-05.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-06.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-07.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-08.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-09.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-10.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-11.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-12.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-13.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-14.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-15.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-16.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-17.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-18.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-19.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-20.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-21.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-22.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-23.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-24.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-25.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-26.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-27.webp"
-      },
-      {
-        "type": "titleSeparator",
-        "content": "Benefit"
-      },
-      {
-        "type": "title",
-        "content": "Sustainable Shore"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-28.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-29.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-30.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-31.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-32.webp"
-      },
-      {
-        "type": "title",
-        "content": "Things To Do"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-33.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-34.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-35.webp"
-      },
-      {
-        "type": "title",
-        "content": "Kudat Experience"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-36.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-37.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-38.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-39.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-40.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-41.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-42.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-43.webp"
-      },
-      {
-        "type": "titleSeparator",
-        "content": "Attachment"
-      },
-      {
-        "type": "title",
-        "content": "Relevant Documents"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-44.webp"
-      },
-      {
-        "type": "singleImage",
-        "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-45.webp"
-      },
-      {
-        "type": "titleSeparator",
-        "content": "Contact"
-      }
-    ]
-  },
   "settings": {
-    "pageTitle": "Vilas De Areia Branca Kudat",
-    "pageContactId": "1543879675",
-    "pageType": "fullWebsite",
-    "showContactForm": "yes",
-    "collectEmail": "yes",
-    "whatsapp": "60192562733"
+    "projectName": "Murug Turug",
+    "location": "<a onclick=\"openInNewTab('https://goo.gl/maps/wEceTL1TvoFpfV7P9')\" class=\"text-primary\">Tamparuli, Sabah</a>",
+    "splashImage": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+    "carouselWelcomePhoto": "https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+    "shortIntroduction": "Murug Turug, also known as the Heaven of Waterfalls, is an award winning tourism site - Sabah Tourism Award 2019 - Best community-Based Tourism Initiative (Rural).\n<br><br>Located 11km off Tamparuli Sabah, it has attracted thousands of visitors from all around the world since its opening.",
+    "landingPageNotice": "<table class=\"table\" style=\"font-size:0.75rem\">\n  <thead>\n    <tr>\n\n      <th scope=\"col\">Terms & Conditions</th>\n\n    </tr>\n  </thead>\n  <tbody>\n\n    <tr>\n      <td>\n\n<b>Note:</b>\n<br> - There is a daily admission total quota.\n<br> - To avoid full visitor admission quota, it is advisable to book <b>3 days before</b> actual day of hiking.\n<br>- Hiking activities is at <b>your own risk</b>.\n\n      </td>\n    </tr>\n\n    <tr>\n      <td><b>Additional Participants (pax):</b>\n<br>- 📌 If you wish to bring additional participants, they must also be booked in advance through our website. Walk-ins for additional participants will not be permitted, as we require advance notice to ensure all necessary preparations are made for a safe and enjoyable experience.  \n      </td>\n    </tr>\n\n    <tr>\n      <td><b>Cancellation Policy</b>\n<br>- 📌 REFUND Payment is only possible if your TEAM withdraws 72 hours before hiking / MTET informs the Weather that it is not suitable for hiking / or any Emergency alert from the MTET.\n      </td>\n    </tr>\n\n  </tbody>\n</table>",
+    "promoText": "Murug Turug missed you !",
+    "shortIntroductionBm": "Murug Turug, juga dikenali sebagai \"the Heaven of Waterfalls\", merupakan kawasan pelancongan yang dianugerah Sabah Tourism Award 2019 - Best community-Based Tourism Initiative (Rural).\n<br><br>Berada di km 11 Tamparuli Sabah, ia telah menarik ribuan pelancong dari seluruh dunia sejak pembukaan.",
+    "landingPageNoticeBm": "<table class=\"table\" style=\"font-size:0.75rem\">\n  <thead>\n    <tr>\n\n      <th scope=\"col\">Terma dan Syarat</th>\n\n    </tr>\n  </thead>\n  <tbody>\n\n    <tr>\n      <td>\n\n<b>Nota:</b>\n<br> - Ada had jumlah tetamu yang dibenarkan untuk setiap hari.\n<br> - Sila booking paling lewat <b>3 hari sebelum datang </b> supaya ada slot untuk anda.\n<br> - Activiti mendaki ada risikonya dan <b>anda bertanggungjawab</b> atas keselamatan diri sendiri.\n\n      </td>\n    </tr>\n\n<tr>\n      <td><b>Peserta Tambahan (pax):</b>\n<br>- 📌 Jika anda ingin membawa peserta tambahan, mereka juga mesti ditempah lebih awal melalui laman web kami. Walk-in untuk peserta tambahan tidak akan dibenarkan kerana kami memerlukan pemberitahuan awal untuk memastikan semua persiapan yang diperlukan dilakukan bagi menjamin pengalaman yang selamat dan menyeronokkan.  \n      </td>\n    </tr>\n\n    <tr>\n      <td><b>Polisi Pembatalan</b>\n<br>- 📌 REFUND hanya akan diproses jika kumpulan anda batal 72 jam sebelum hiking / jika MTET memberitahu keadaan cuaca yang teruk / apa-apa perkara emergency dari MTET  \n      </td>\n    </tr>\n\n  </tbody>\n</table>",
+    "promoTextBm": "Murug Turug menanti anda !",
+    "shortIntroductionCn": "Murug Turug, 被称为 the Heaven of Waterfall 瀑布天堂, 在2019年荣获 沙巴旅游奖 - 最佳 Community-Based Tourism Initiative (乡区).\n<br><br>距离Tamparuli Sabah市区仅11公里, 如今它已成功吸引 成千上万,来自世界各地 的旅客.",
+    "landingPageNoticeCn": "<table class=\"table\" style=\"font-size:0.75rem\">\n  <thead>\n    <tr>\n\n      <th scope=\"col\">条规</th>\n\n    </tr>\n  </thead>\n  <tbody>\n\n    <tr>\n      <td>\n\n<b>注意:</b>\n<br> - 每天都有限人数.\n<br> - 所以请您至少在 <b>3 天之前</b> 提早预订.\n<br> - 所有活动的任何风险 <b>由您自行承担</b>.\n\n      </td>\n    </tr>\n\n<tr>\n      <td><b>额外参与者 (pax):</b>\n<br>- 📌 如果您希望带额外的参与者, 他们也必须通过我们的网站提前预订. 额外参与者的临时到访将不被允许, 因为我们需要提前通知以确保所有必要的准备工作到位, 以确保一个安全愉快的体验.\n      </td>\n    </tr>\n\n    <tr>\n      <td><b>取消及退款</b>\n<br>- 📌 取消及退款只能在特殊情况下. 例如 您在72小时提前通知 / MTET 告知恶劣天气 / MTET 有任何紧急状况\n      </td>\n    </tr>\n\n  </tbody>\n</table>",
+    "promoTextCn": "Murug Turug 期待您的到来 !",
+    "bankAccount": "MAYBANK<br><b>560232166965</b><br>Murug Turug Eco Tourism",
+    "depositPercent": 30,
+    "customerServiceLine": "+601137162452",
+    "whatsAppButton": "no",
+    "dayInAdvance": 2,
+    "paymentFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeWHVDEmvj4ltXaZIxSy33TTBBhNIMK_3EKBpIyFcWvAg5PUg/viewform",
+    "paymentAppUrl": "https://murugturug.com/payment",
+    "facebookUrl": "https://www.facebook.com/murugturug",
+    "bookingLink": "https://murugturug.com",
+    "bookingManual": "yes",
+    "useCert": "no",
+    "managementGroupId": -749959772,
+    "confirmedBookingGroupId": -804050441,
+    "bossId": 1543879675,
+    "useStripeAccount": "no",
+    "onlyUseStripe": "no",
+    "currencyInUse": "MYR",
+    "googleTagId": "G-B26PEW3X8X",
+    "fallbackURL": "https://direct-page.com/?q=murug-turug-booking",
+    "numberOfThumbnailToShow": 4
+  },
+  "activityData": [
+    {
+      "code": "pakejA",
+      "title": "Pakej A",
+      "photo": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakeja.webp,https://user-images.githubusercontent.com/94954470/162553382-dd2c4142-6375-4c44-b3b8-dc33ea717a0e.jpg,https://user-images.githubusercontent.com/94954470/162552261-73b957b0-4da6-46d8-854b-a481c06a1e62.jpg,https://user-images.githubusercontent.com/94954470/162552263-ce4ab010-247c-4fee-9f37-8d97645581a1.jpg,https://user-images.githubusercontent.com/94954470/162552266-eb64f548-7e3e-4f5b-bcfd-5974639d1da9.jpg,https://user-images.githubusercontent.com/94954470/162552268-c9c02265-8859-4161-b437-5ec536147607.jpg,https://user-images.githubusercontent.com/94954470/162552272-4ae00a97-ea78-49f6-b21b-145c0d4aabe1.jpg,https://user-images.githubusercontent.com/94954470/162552273-866059af-5b5b-4733-8b12-04bbd3de637b.jpg,https://user-images.githubusercontent.com/94954470/162552274-a5f84fc6-cd3c-4531-bba1-bc2e15ef66b1.jpg,https://user-images.githubusercontent.com/94954470/162552276-10ded5ad-2e89-4e9a-9cb0-fb58e3f642b7.jpg,https://user-images.githubusercontent.com/94954470/162552277-4e128eb0-d89d-46d0-8f07-eea49ab195a1.jpg,https://user-images.githubusercontent.com/94954470/162552278-3148487e-158c-468f-8c40-5038162be749.jpg,https://user-images.githubusercontent.com/94954470/160743670-dd4ebb66-6b0f-48a2-bd86-bdf78adf0afb.jpg",
+      "youtubeVideoId": "-",
+      "type": "dayTrip",
+      "badge": "beginner",
+      "needGuide": "yes",
+      "minGuide": 1,
+      "minPax": 1,
+      "guideFee": 35,
+      "guideFeeForeigner": 35,
+      "nightGuideFee": 0,
+      "paxPerNightGuide": 0,
+      "minNightGuide": 0,
+      "countToQuota": "yes",
+      "hasOwnQuota": "no",
+      "ownQuota": "-",
+      "paxPerGuide": 5,
+      "shortItemDetails": "A short hike directly to the main waterfalls.",
+      "shortItemDetailsBm": "Hiking terus pergi air terjun yang utama.",
+      "shortItemDetailsCn": "直接步行到主要瀑布.",
+      "details": "✔️ 1 Waterfall,✔️ Murug-Turug Waterfall,✔️ Conservation Fee,Level: Easy,Total Distance: 3km(return trail),Registration open 730am,All hikers are allowed to stay at waterfall area until 4pm only,All hikers must leave waterfall site before 4pm,All hikers must reach back to check point before 5pm,Extra fee for guide if over 5pm is needed at rm15/hour,4x4 Grab transportation is available if needed for 1.3km but you will still need to hike around 300meters to reach waterfall",
+      "detailsBm": "✔️ 1 Air Terjun, ✔️ Air Terjun Murug-Turug, ✔️ Yuran Konservasi, Tahap: Mudah, Jarak Total: 3km (pulang-balik), Pendaftaran dibuka pada 7:30 pagi, Semua pendaki dibenarkan tinggal di kawasan air terjun sehingga 4 petang sahaja, Semua pendaki mesti meninggalkan tapak air terjun sebelum pukul 4 petang, Semua pendaki mesti kembali ke pondok pendaftaran sebelum pukul 5 petang, Bayaran tambahan untuk guide jika melebihi pukul 5 petang adalah RM15/sejam, Pengangkutan 4x4 Grab disediakan jika diperlukan untuk 1.3km tetapi anda masih perlu mendaki kira-kira 300 meter untuk sampai ke air terjun.",
+      "detailsCn": "✔️ 1 瀑布, ✔️  Murug-Turug 瀑布, ✔️ 保育费,难度: 简单,总距离: 3公里（往返小径）,出发时间从早上7:30开始,所有徒步者只允许在瀑布区逗留到下午4点,所有徒步者必须在下午4点前离开瀑布区,所有徒步者必须在下午5点前回到出发点,如果需要超过下午5点，导游额外收费为RM15/小时,如果需要，可以使用4x4 Grab交通工具前往1.3公里，但仍需徒步约300米才能到达瀑布。",
+      "itinerary": "0730 Registration and briefing,\n0800 Start Hiking,\n0900 Arrive at waterfall,\n1600 Leave waterfall\n1700 Arrive at starting point",
+      "itineraryBm": "0730 Pendaftaran dan taklimat,\n0800 Mula Mendaki,\n0900 Tiba di air terjun,\n1600 Tinggalkan air terjun\n1700 Tiba di titik permulaan",
+      "itineraryCn": "0730 注册和简报,\n0800 开始徒步,\n0900 到达瀑布,\n1600 离开瀑布,\n1700 到达起点",
+      "singlePriced": "no",
+      "childPrice": 4,
+      "adultPrice": 6,
+      "foreignerPrice": 12,
+      "overnightFee": 0,
+      "specialNote": "-",
+      "available": "yes",
+      "unitOfMeasurement": "pax"
+    },
+    {
+      "code": "pakejB",
+      "title": "Pakej B",
+      "photo": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakejb.webp,https://user-images.githubusercontent.com/94954470/162557016-f46899b3-c9da-4909-8290-7f567b00d3c9.jpg,https://user-images.githubusercontent.com/94954470/162557020-bf57454f-2bee-4fe2-be9e-e78ddcc154f5.jpg,https://user-images.githubusercontent.com/94954470/162557022-ed4b2f4a-94df-415b-830f-d654241dc0ca.jpg,https://user-images.githubusercontent.com/94954470/162557024-e875427f-f244-4c5f-bf17-aba66dbfd660.jpg,https://user-images.githubusercontent.com/94954470/162557025-d1bfe9da-6110-4f83-b8a3-e49008511de8.jpg,https://user-images.githubusercontent.com/94954470/162557026-80b67291-2951-41db-affa-abc2dc9eca35.jpg,https://user-images.githubusercontent.com/94954470/162557027-7d612a62-d223-4a9d-9b0c-20aede1046b3.jpg,https://user-images.githubusercontent.com/94954470/162557029-16d59b44-1e06-4956-aa16-91c96e28b0f6.jpg,https://user-images.githubusercontent.com/94954470/162557030-b3c67588-60d9-4625-98f7-7f786f0fa8e1.jpg,https://user-images.githubusercontent.com/94954470/162557032-3c853fbf-c8e0-4251-a495-77294f655760.jpg,https://user-images.githubusercontent.com/94954470/162557033-fe20fc50-d349-4077-bed8-4f2e495af00f.jpg,https://user-images.githubusercontent.com/94954470/162557034-d0b5173a-a46e-4932-aedb-18d81cbeafc9.jpg,https://user-images.githubusercontent.com/94954470/162557035-5096610a-4f75-437f-a365-d0b7ceb114cf.jpg,https://user-images.githubusercontent.com/94954470/162557036-a74ae223-ab6e-49d9-acff-96eee48747ef.jpg,https://user-images.githubusercontent.com/94954470/162557037-a46c8534-7113-4e88-b9fc-65de27a0943c.jpg,https://user-images.githubusercontent.com/94954470/162559118-7037876d-a1b7-41b7-8eed-0fc236d6791d.jpg,https://user-images.githubusercontent.com/94954470/162559119-4c99fa0c-5bb2-454f-801a-a3336ff64ee1.jpg,https://user-images.githubusercontent.com/94954470/162557019-520ad366-b323-4db8-8aa6-b33b8b682a02.jpg,https://user-images.githubusercontent.com/94954470/162557018-694e6255-dbd5-4c6e-8fe2-30281f2a95fb.jpg",
+      "youtubeVideoId": "-",
+      "type": "dayTrip",
+      "badge": "intermediate",
+      "needGuide": "yes",
+      "minGuide": 1,
+      "minPax": 1,
+      "guideFee": 40,
+      "guideFeeForeigner": 40,
+      "nightGuideFee": 0,
+      "paxPerNightGuide": 0,
+      "minNightGuide": 0,
+      "countToQuota": "yes",
+      "hasOwnQuota": "no",
+      "ownQuota": "-",
+      "paxPerGuide": 5,
+      "shortItemDetails": "An intermediate hike to 3 main waterfalls.",
+      "shortItemDetailsBm": "Hiking tahap sederhana ke 3 air terjun.",
+      "shortItemDetailsCn": "中等难度,路途经过3个瀑布.",
+      "details": "✔️ 3 Waterfall,✔️ Kionop Waterfall,✔️ Piolungan Waterfall,✔️ Murug-Turug Waterfall,✔️ Conservation Fee,Level: Moderate,Total Distance: 4km(semi loop trail),Registration open 730am,All hikers are allowed to stay at the last waterfall area until 4pm only,All hikers must leave the last waterfall site before 4pm,All hikers must reach back to check point before 5pm,Extra fee for guide if over 5pm is needed at rm15/hour,4x4 Grab transportation is available if needed for 1.8km but you will still need to hike around 200meters to reach the first waterfall",
+      "detailsBm": "✔️ 3 Air Terjun, ✔️ Air Terjun Kionop, ✔️ Air Terjun Piolungan, ✔️ Air Terjun Murug-Turug, ✔️ Yuran Konservasi, Tahap: Sederhana, Jarak Total: 4km (laluan setengah lingkaran), Pendaftaran dibuka pada 7:30 pagi, Semua pendaki dibenarkan berada di kawasan air terjun terakhir sehingga 4 petang sahaja, Semua pendaki mesti meninggalkan tapak air terjun terakhir sebelum pukul 4 petang, Semua pendaki mesti kembali ke pondok pendaftaran sebelum pukul 5 petang, Bayaran tambahan untuk guide jika melebihi pukul 5 petang adalah RM15/sejam, Pengangkutan 4x4 Grab disediakan jika diperlukan untuk 1.8km, tetapi anda masih perlu mendaki kira-kira 200 meter untuk mencapai air terjun pertama.",
+      "detailsCn": "✔️ 3 瀑布, ✔️ Kionop瀑布, ✔️ Piolungan瀑布, ✔️ Murug-Turug瀑布, ✔️ 保育费,难度: 中等,总距离: 4公里（半环状步道）,出发时间从早上7:30开始,所有徒步者只允许留在最后瀑布区到下午4点,所有徒步者必须在下午4点前离开最后瀑布区,所有徒步者必须在下午5点前回到出发点,如果需要超过下午5点，导游的额外收费为RM15/小时,如果需要，可以使用4x4 Grab交通工具前往1.8公里，但你仍需要徒步约200米才能到达第一个瀑布。",
+      "itinerary": "0730 Registration and briefing,\n0800 Start Hiking,\n0900 Arrive at first waterfall,\n-Kionop Waterfall,-Piolungan Waterfall,-Murug-Turug Waterfall,\n1600 Leave the last waterfall,\n1700 Arrive at starting point",
+      "itineraryBm": "0730 Pendaftaran dan taklimat,\n0800 Mula Mendaki,\n0900 Tiba di air terjun pertama,\n- Air Terjun Kionop,- Air Terjun Piolungan,- Air Terjun Murug-Turug,\n1600 Tinggalkan air terjun terakhir,\n1700 Tiba di titik permulaan",
+      "itineraryCn": "0730 登记和简报,\n0800 开始徒步,\n0900 到达第一个瀑布,\n- Kionop瀑布,- Piolungan瀑布,- Murug-Turug瀑布,\n1600 离开最后一个瀑布,\n1700 到达起点",
+      "singlePriced": "no",
+      "childPrice": 10,
+      "adultPrice": 10,
+      "foreignerPrice": 18,
+      "overnightFee": 0,
+      "specialNote": "Not Suitable for child<12yo",
+      "available": "yes",
+      "unitOfMeasurement": "pax"
+    },
+    {
+      "code": "pakejC",
+      "title": "Pakej C",
+      "photo": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakejc.webp,https://user-images.githubusercontent.com/94954470/162558100-d5702761-4591-4799-83c9-dd946c65064b.jpg,https://user-images.githubusercontent.com/94954470/162558102-e7431c1d-70ce-4cad-8dcd-c625ead4c5ea.jpg,https://user-images.githubusercontent.com/94954470/162558103-4920ff2a-ef75-44a7-b2a8-7e957ae2aa93.jpg,https://user-images.githubusercontent.com/94954470/162558106-6ff3649d-d6d8-4fda-8365-58e8c0754651.jpg,https://user-images.githubusercontent.com/94954470/162558107-55bbf56a-a1a1-48bc-b401-7aa9b68762c0.jpg,https://user-images.githubusercontent.com/94954470/162558108-4508553f-e81b-49df-883b-bb1a0869100f.jpg,https://user-images.githubusercontent.com/94954470/162558112-be256c61-c57b-431e-a28e-94167a67b809.jpg,https://user-images.githubusercontent.com/94954470/162558115-323644af-eea3-40ec-b9e5-7881c0ea6e4d.jpg,https://user-images.githubusercontent.com/94954470/162558119-daba6b81-8613-4040-a44b-b19ac945bd67.jpg,https://user-images.githubusercontent.com/94954470/162558120-a348b8c1-a331-44a1-b976-79f66f9076df.jpg,https://user-images.githubusercontent.com/94954470/162558121-2762047f-6316-49d1-bc9a-a22119c4afcc.jpg,https://user-images.githubusercontent.com/94954470/162558124-1c6a7da0-4533-4f9b-84cb-e15e5817a03c.jpg,https://user-images.githubusercontent.com/94954470/162558127-7bf8c313-0c93-4748-9f4c-65e6416b71f0.jpg,https://user-images.githubusercontent.com/94954470/162558128-2cc35978-945a-42f6-ae87-08fd2df6f0c7.jpg,https://user-images.githubusercontent.com/94954470/162558129-345b6d97-320f-480f-b689-c95941ea5876.jpg,https://user-images.githubusercontent.com/94954470/162558130-1452af25-c260-4905-b1ea-5452d42f02da.jpg,https://user-images.githubusercontent.com/94954470/162558131-69cda91e-ac48-484f-8076-6f3155c2dc03.jpg,https://user-images.githubusercontent.com/94954470/162559121-0fca7055-fd0b-484b-94e2-7d72a3e75ddc.jpg",
+      "youtubeVideoId": "-",
+      "type": "dayTrip",
+      "badge": "advanced",
+      "needGuide": "yes",
+      "minGuide": 1,
+      "minPax": 1,
+      "guideFee": 60,
+      "guideFeeForeigner": 60,
+      "nightGuideFee": 0,
+      "paxPerNightGuide": 0,
+      "minNightGuide": 0,
+      "countToQuota": "yes",
+      "hasOwnQuota": "no",
+      "ownQuota": "-",
+      "paxPerGuide": 3,
+      "shortItemDetails": "An advanced trail for covering 6 waterfalls.",
+      "shortItemDetailsBm": "Hiking yang tahap susah dan merangkumi 6 air terjun.",
+      "shortItemDetailsCn": "高难度的行程,将经过6个瀑布.",
+      "details": "Full Trail,Level: Advanced,Total Distance: 6.8km(loop trail),Not recommended for beginner hiker,Estimated 4-6 hours to complete,All hikers must reach back to check point before 5pm,Extra fee for guide if over 5pm is needed at rm15/hour",
+      "detailsBm": "Laluan Penuh, Tahap: Lanjutan, Jarak Total: 6.8km (laluan pusingan), Tidak disarankan untuk pendaki beginner, Anggaran masa 4-6 jam untuk diselesaikan, Semua pendaki mesti kembali ke pondok pendaftaran sebelum pukul 5 petang, Bayaran tambahan untuk guide jika melebihi pukul 5 petang adalah RM15/sejam.",
+      "detailsCn": "完整步道,难度: 高级,总距离: 6.8公里（环状步道）,不建议新手徒步者,预计需4-6小时完成,所有徒步者必须在下午5点前回到出发点,如果需要超过下午5点，导游的额外收费为RM15/小时",
+      "itinerary": "0730 Registration and briefing,\n0800 Start Hiking,\n0900 Arrive at first waterfall,\nMalas Kalas Waterfalls,Minansur II Waterfalls,Lobuan Waterfalls,Murug-Turug Waterfalls,Piolungan Waterfalls,Kionop Waterfalls,\n1600 Leave the last waterfall,\n1700 Arrive at starting point",
+      "itineraryBm": "0730 Pendaftaran dan taklimat,\n0800 Mula Mendaki,\n0900 Tiba di air terjun pertama,\nAir Terjun Malas Kalas,Air Terjun Minansur II,Air Terjun Lobuan,Air Terjun Murug-Turug,Air Terjun Piolungan,Air Terjun Kionop,\n1600 Tinggalkan air terjun terakhir,\n1700 Tiba di titik permulaan",
+      "itineraryCn": "0730 注册和简报,\n0800 开始徒步,\n0900 到达第一个瀑布,\nMalas Kalas 瀑布,Minansur II 瀑布,Lobuan 瀑布,Murug-Turug 瀑布,Piolungan 瀑布,Kionop 瀑布,\n1600 离开最后一个瀑布,\n1700 到达起点",
+      "singlePriced": "no",
+      "childPrice": 18,
+      "adultPrice": 18,
+      "foreignerPrice": 35,
+      "overnightFee": 0,
+      "specialNote": "Not Suitable for child<12yo",
+      "available": "yes",
+      "unitOfMeasurement": "pax"
+    },
+    {
+      "code": "pakejUltra",
+      "title": "Pakej Ultra",
+      "photo": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/mtet/pakejultra.webp,https://user-images.githubusercontent.com/94954470/162558100-d5702761-4591-4799-83c9-dd946c65064b.jpg,https://user-images.githubusercontent.com/94954470/162558102-e7431c1d-70ce-4cad-8dcd-c625ead4c5ea.jpg,https://user-images.githubusercontent.com/94954470/162558103-4920ff2a-ef75-44a7-b2a8-7e957ae2aa93.jpg,https://user-images.githubusercontent.com/94954470/162558105-77162e06-04b5-4380-93e9-81e3b08bfc14.jpg,https://user-images.githubusercontent.com/94954470/162558106-6ff3649d-d6d8-4fda-8365-58e8c0754651.jpg,https://user-images.githubusercontent.com/94954470/162558107-55bbf56a-a1a1-48bc-b401-7aa9b68762c0.jpg,https://user-images.githubusercontent.com/94954470/162558108-4508553f-e81b-49df-883b-bb1a0869100f.jpg,https://user-images.githubusercontent.com/94954470/162558112-be256c61-c57b-431e-a28e-94167a67b809.jpg,https://user-images.githubusercontent.com/94954470/162558115-323644af-eea3-40ec-b9e5-7881c0ea6e4d.jpg,https://user-images.githubusercontent.com/94954470/162558116-a0303756-154d-4699-a94d-8ba6e3ba963a.jpg,https://user-images.githubusercontent.com/94954470/162558119-daba6b81-8613-4040-a44b-b19ac945bd67.jpg,https://user-images.githubusercontent.com/94954470/162558120-a348b8c1-a331-44a1-b976-79f66f9076df.jpg,https://user-images.githubusercontent.com/94954470/162558121-2762047f-6316-49d1-bc9a-a22119c4afcc.jpg,https://user-images.githubusercontent.com/94954470/162558123-3373a7cf-3f57-4ba6-93fa-115955503919.jpg,https://user-images.githubusercontent.com/94954470/162558124-1c6a7da0-4533-4f9b-84cb-e15e5817a03c.jpg,https://user-images.githubusercontent.com/94954470/162558127-7bf8c313-0c93-4748-9f4c-65e6416b71f0.jpg,https://user-images.githubusercontent.com/94954470/162558128-2cc35978-945a-42f6-ae87-08fd2df6f0c7.jpg,https://user-images.githubusercontent.com/94954470/162558129-345b6d97-320f-480f-b689-c95941ea5876.jpg,https://user-images.githubusercontent.com/94954470/162558130-1452af25-c260-4905-b1ea-5452d42f02da.jpg,https://user-images.githubusercontent.com/94954470/162558131-69cda91e-ac48-484f-8076-6f3155c2dc03.jpg,https://user-images.githubusercontent.com/94954470/162559121-0fca7055-fd0b-484b-94e2-7d72a3e75ddc.jpg",
+      "youtubeVideoId": "-",
+      "type": "dayTrip",
+      "badge": "hard",
+      "needGuide": "yes",
+      "minGuide": 1,
+      "minPax": 1,
+      "guideFee": 70,
+      "guideFeeForeigner": 70,
+      "nightGuideFee": 0,
+      "paxPerNightGuide": 0,
+      "minNightGuide": 0,
+      "countToQuota": "yes",
+      "hasOwnQuota": "no",
+      "ownQuota": "-",
+      "paxPerGuide": 3,
+      "shortItemDetails": "A hard trail for covering 7 waterfalls.",
+      "shortItemDetailsBm": "Hiking yang tahap mencabar dan merangkumi 7 air terjun.",
+      "shortItemDetailsCn": "高难度的行程,将经过7个瀑布.",
+      "details": "Full Trail,Level: Hard,Total Distance: 8km(loop trail),Not recommended for beginner hiker,Estimated 4-6 hours to complete,All hikers must reach back to check point before 5pm,Extra fee for guide if over 5pm is needed at rm15/hour",
+      "detailsBm": "Laluan Penuh, Tahap: Mencabar, Jarak Total: 8km (laluan pusingan), Tidak disarankan untuk pendaki beginner, Anggaran masa 4-6 jam untuk diselesaikan, Semua pendaki mesti kembali ke pondok pendaftaran sebelum pukul 5 petang, Bayaran tambahan untuk guide jika melebihi pukul 5 petang adalah RM15/sejam.",
+      "detailsCn": "完整步道,难度: 高级,总距离: 8公里（环状步道）,不建议新手徒步者,预计需4-6小时完成,所有徒步者必须在下午5点前回到出发点,如果需要超过下午5点，导游的额外收费为RM15/小时",
+      "itinerary": "0730 Registration and briefing,\n0800 Start Hiking,\n0900 Arrive at first waterfall,\nMalas Kalas Waterfalls,Malas Kalas Peak (410m asl),Minansur I Waterfalls,Minansur II Waterfalls,Lobuan Waterfalls,Murug-Turug Waterfalls,Piolungan Waterfalls,Kionop Waterfalls,\n1600 Leave the last waterfall,\n1700 Arrive at starting point",
+      "itineraryBm": "0730 Pendaftaran dan taklimat,\n0800 Mula Mendaki,\n0900 Tiba di air terjun pertama,\nAir Terjun Malas Kalas,Malas Kalas Peak (410m asl),Air Terjun Minansur I,Air Terjun Minansur II,Air Terjun Lobuan,Air Terjun Murug-Turug,Air Terjun Piolungan,Air Terjun Kionop,\n1600 Tinggalkan air terjun terakhir,\n1700 Tiba di titik permulaan",
+      "itineraryCn": "0730 注册和简报,\n0800 开始徒步,\n0900 到达第一个瀑布,\nMalas Kalas 瀑布,Malas Kalas山顶(海拔410m),Minansur I 瀑布,Minansur II 瀑布,Lobuan 瀑布,Murug-Turug 瀑布,Piolungan 瀑布,Kionop 瀑布,\n1600 离开最后一个瀑布,\n1700 到达起点",
+      "singlePriced": "no",
+      "childPrice": 20,
+      "adultPrice": 20,
+      "foreignerPrice": 40,
+      "overnightFee": 0,
+      "specialNote": "Not Suitable for child<12yo",
+      "available": "yes",
+      "unitOfMeasurement": "pax"
+    }
+  ],
+  "availableSlots": [
+    {
+      "date": "everyday",
+      "pakejA": {
+        "slotTaken": 0
+      },
+      "pakejB": {
+        "slotTaken": 0
+      },
+      "pakejC": {
+        "slotTaken": 0
+      },
+      "pakejUltra": {
+        "slotTaken": 0
+      },
+      "quota": 50,
+      "slotTaken": 0,
+      "slotLeft": 50
+    }
+  ],
+  "information": {
+    "How To Book": "Booking your spot with Murug Turug is a straightforward 3-step process:<br><img class=\"img-fluid\" src=\"https://telegra.ph/file/cb81aa0a1cb76a725afd2.jpg\"><br><br><b>(1) Reserve Your Spot</b><br>Visit <a href=\"https://MurugTurug.com\">MurugTurug.com</a> to check availability and pricing. Complete the contact information section to place your booking.<br><img class=\"img-fluid\" src=\"https://telegra.ph/file/7ed64d13a15d65c8544da.jpg\"><br>arrowDown<b>(2) Make Payment</b><br>Transfer the required amount to the bank account displayed on your screen. You may use any bank that is convenient for you.<br>arrowDown<b>(3) Submit Payment Proof</b><br>Upload your payment proof at <u onclick=\"openInNewTab('https://MurugTurug.com/payment')\" class=\"text-primary\">MurugTurug.com/payment</u>.<br><br>✅ Success! It's that simple.<br><br>Note:<br>You must complete all steps within 30 minutes, or you will need to start over.<br><br>Note for Mac/iOS user:<br>This app works best in the Chrome browser.",
+    "Google Map": "📍Google Map<br><a href=\"https://goo.gl/maps/wEceTL1TvoFpfV7P9\">Murug-Turug Eco Toursim</a>",
+    "Location": "📌 Location: Kg Minangkob Tamparuli, sabah<br>📌 Distance: Approximately 11KM from Tamparuli Town<br>📌 Otw Jalan Tamparuli  -> Ranau",
+    "Arrival Time": "Package A & Package B: Jam 7:30 AM  (Please notify admin if late)<br>Package C: Jam 7am<br>Package Ultra: Jam 7am<br>🏕Camping Package 1: 8:00 AM TO 12:00 AM <br>⛺ Camping Package 2: 1:00 pm- 3.00 pm<br>For registration and briefing purposes.",
+    "Camping": "For camping / overnight package, please contact us at 0193173477 or 0166671057<br><br>Untuk camping / bermalam, sila hubungi kita di 0193173477 atau 0166671057<br><br>露营配套,请联络我们 0193173477 或 0166671057 特别安排",
+    "Walk in Customer": "Walk in is not encouraged, but if you do, please contact us for available slots at 0193173477 or 0166671057",
+    "Payment": "📌 After booking, you will receive an email with Bank Account<br>📌 Please proceed according to instruction in email<br>📌 Please pay full amount, and stating your booking REF on receipt.<br>📌 The full payment should pay to MAYBANK account 560232166965 Murug Turug Eco Tourism<br>📌 Payment receipts must be kept and submitted at <u onclick=\"openInNewTab('https://MurugTurug.com/payment')\">murugturug.com/payment</u> upon registration. A copy of the receipt can go directly to whatsapp to the Admin section.<br>📌 Booking will be processed once full payment has been made.",
+    "Refund": "📌 If the hiking team withdraws after the deposit is made, the deposit will not be refunded.<br>📌 REFUND Payment is only made if your TEAM withdraws two days before hiking / MTET informs the Weather that it is not suitable for hiking / or any Emergency alert from the MTET.",
+    "Pet": "📌 It is NOT ALLOWED to carry a PET",
+    "Reminder": "ALWAYS REMEMBER<br>1. appropriate hiking attire<br>2. Suitable shoes (wet / hiking / rocky)<br>3. Medications that are considered necessary<br>4. Supplements<br>5. Rain Shirts (if dont wants to shower / get wet). \"Adidas kampung\" shoes are recommended<br>6. Participants are expected to return to the starting point before 5 pm; any delay will incur an additional fee to compensate for the guide's overtime.<br><br>At least  info admin 3 days prior to booking, need a certificate OR foods so that the Murug - Turug Eco Tourism team can take action and set up early.<br>If you would like to book a T-shirt, please contact the management at www.wasap.my/60166671057 in advance (one week before) to print.<br><br>#Do not cut / trim / damage any plant throughout the area ..<br>#Please like / share our page . Thank you.",
+    "Weather of Sabah": "Sabah has a tropical hot and humid weather (equatorial climate). Temperatures normally ranging from 20°C (68°F) to 32°C (90°F).<br><br><img class=\"img-fluid\" src=\"https://user-images.githubusercontent.com/94954470/149617520-71164910-ea7c-4eaa-b266-df4aad5f8910.png\"><br><img class=\"img-fluid\" src=\"https://user-images.githubusercontent.com/94954470/149617584-05a8d9f7-344e-484d-b107-247b8c63fd2f.png\">",
+    "Photos": "<img class=\"img-fluid\" src=\"https://user-images.githubusercontent.com/94954470/165899849-a539e69f-06ed-4054-92cd-a34bcb4ed767.jpg\"><br><a href=\"https://photos.app.goo.gl/cgZdS8BTFArzrXiK8\">Photos Gallery</a>",
+    "Enquiry": "If you have any questions that is not covered above, you may contact us<br><br>Contact / whatsapp<br>Office +6 0113 716 2452<br>John +6 016 667 1057<br>Borin +6 013 977 0585"
   },
   "error": false
 }
