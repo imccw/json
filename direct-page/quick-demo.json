@@ -222,6 +222,21 @@
         "url": "https://raw.githubusercontent.com/imccw/media/refs/heads/main/vilas-de-areia-branca-kudat/slide-45.webp"
       },
       {
+        "type": "title",
+        "content": "Location",
+        "hidden": "no"
+      },
+      {
+        "type": "location",
+        "url": "https://maps.app.goo.gl/L6qmxxzU6xYBk5W27",
+        "text": "Vilas de Areia",
+        "coordinates": {
+          "lat": 7.011846575556896,
+          "lng": 116.73160689684516
+        },
+        "spacing": 0
+      },
+      {
         "type": "titleSeparator",
         "content": "Contact"
       }
