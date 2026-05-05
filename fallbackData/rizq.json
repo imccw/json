@@ -303,7 +303,7 @@
             "pax": "👤👤👤👤👤👤👤👤👤👤",
             "pax-n": "10",
             "code": "link_bungalow",
-            "extraBedAllowed": "4",
+            "extraBedAllowed": "0",
             "holidayPrice": 70000,
             "smallHolidayPrice": 70000,
             "weekendPrice": 70000,
